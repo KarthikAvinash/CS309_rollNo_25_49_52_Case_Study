@@ -1,0 +1,54 @@
+unit 2
+
+LARGE SAMPLE TESTS 
+    - One sample z test
+    - Two sample test
+SMALL SAMPLE TESTS
+    - One sample test
+    - Two sample test
+Paired T Test
+Proportion Test
+DONE \/////////////////////////////////////////////
+__________________________________________________________________________
+unit 3
+
+the Runs test,
+The Sign test,
+The paired Sign test
+the Wilcoxon rank sum test, and
+the Wilcoxon signed-rank test.
+
+__________________________________________________________________________
+unit 4
+
+Chi- Squared Test for goodness fit
+
+The Chi-square test- test for Normality
+
+Chi-square test for independence
+
+Chi-square test of Homogenity
+
+Chi-square test for 2x2 contingency table
+
+Yates correction for continuity in a 2x2 contingency table
+
+__________________________________________________________________________
+unit 5
+
+Sample size calculation
+
+For single mean n= z**2(alpha**2)/d**2
+
+For single proportion n=z**2(p*(1-p))/d**2==z**2*p*q/E**2
+
+Sample size for two samples 
+For two means N=n1+n2=4 sd**2(z(1-alpha/2)+z(1-beta))**2/(d=mu1-mu2)**2
+
+For two proportions N=n1+n2= 
+4(z(1-alpha/2)+z(1-beta))**2)[(P1+P2)/2(1-(P1+P2)/2))]/(d=mu1-mu2)**2
+
+For two proportions N=n1+n2= 
+4(z(1-alpha/2)+z(1-beta))**2)[(P1+P2)/2(1-(P1+P2)/2))]/(d=mu1-mu2)**2
+
+Null hypothesis: Mu1=mu2
